@@ -1,0 +1,437 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Library/VerilogProject
+T_opt
+!s110 1680827615
+V4g@>?kSW;A`Rb57`HbhTW0
+Z1 04 12 4 work CortexM0_SoC fast 0
+=1-244bfe86b010-642f64dc-349-484
+o-quiet -auto_acc_if_foreign -work Soc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1680827741
+VAJ]]Z`AM=A0odD2:=>9_=0
+R1
+=1-244bfe86b010-642f655c-33c-2c70
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+R0
+vAHBlite_Block_RAM
+Z4 !s110 1680946187
+!i10b 1
+!s100 Dfo`3?6ebAG25LzoTn:cM1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I55E3C1OQ;ZDLgPXBe;NdR0
+Z6 dD:/Library/VerilogProject/Soc
+Z7 w1645770314
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v
+!i122 17
+L0 1 77
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1680946186.000000
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v|
+!i113 0
+Z10 o-work Soc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@h@blite_@block_@r@a@m
+vAHBlite_Decoder
+R4
+!i10b 1
+!s100 CjzM:2SfScf[ClzDm:9@T2
+R5
+If5zVHnT`lKi6m@]G]An9M1
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v
+!i122 18
+L0 1 103
+R8
+R9
+r1
+!s85 0
+31
+Z11 !s108 1680946187.000000
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@decoder
+vAHBlite_Interconnect
+R4
+!i10b 1
+!s100 ^nj1X7Vi?UH2DXCWHf6^j2
+R5
+I7M[ZHSS?M`SNTiZO7I97P1
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v
+!i122 19
+L0 1 281
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@interconnect
+vAHBlite_LED
+R4
+!i10b 1
+!s100 Nk^moD2o6:HLA^YQ69e4F3
+R5
+I_;RbXZW>8ncO[QgE@a7_<0
+R6
+w1680944839
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v
+!i122 20
+L0 1 41
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@l@e@d
+vAHBlite_Matrix_Key
+R4
+!i10b 1
+!s100 =b`47Oh0k=W7bbmD=:H0U1
+R5
+Io;<h]4eFMWFmn;74GCmAR1
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v
+!i122 21
+L0 1 43
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@matrix_@key
+vAHBlite_SEG
+R4
+!i10b 1
+!s100 WgL`30QX3OhLOzdlQif]02
+R5
+IRIf:<@BocAM@@]RXUzKIV2
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v
+!i122 22
+L0 1 109
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@s@e@g
+vAHBlite_SlaveMUX
+R4
+!i10b 1
+!s100 IBJdDGGFAg5Am8mg^PK1<0
+R5
+Ig;27Z04Deoe@i?fe^_Z0M0
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v
+!i122 23
+L0 1 117
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@slave@m@u@x
+vAHBlite_Timer
+R4
+!i10b 1
+!s100 JK271Cmie12PY8ISnJL`80
+R5
+I;D1DJd@PJ8nP:^:6hS=dk3
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v
+!i122 24
+L0 1 85
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@timer
+vAHBlite_UART
+R4
+!i10b 1
+!s100 JBd?<^b1M6QT3UnfZ8Z^c0
+R5
+IXYNSRNO<V0I06j?=S7=M43
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v
+!i122 25
+L0 1 63
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v|
+!i113 0
+R10
+R2
+n@a@h@blite_@u@a@r@t
+vBlock_RAM
+R4
+!i10b 1
+!s100 4=LaV1DX>LS^c?O`N0R2N3
+R5
+IIB_W1e@17n3KT^2LE7?k`0
+R6
+w1680830032
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v
+!i122 26
+L0 1 35
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v|
+!i113 0
+R10
+R2
+n@block_@r@a@m
+vclkuart_pwm
+R4
+!i10b 1
+!s100 00h3D_cSC`Dof2IUaUKz02
+R5
+I=0kWbH=?>S?QXaoYE[0WZ1
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v
+!i122 27
+L0 2 24
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v|
+!i113 0
+R10
+R2
+vCortexM0_SoC
+R4
+!i10b 1
+!s100 ZRNg:fHT4CjXbUH9UjdIO0
+R5
+I9K[552QJ>a>gnS1880h:Q3
+R6
+w1680826872
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v
+!i122 28
+L0 2 634
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v|
+!i113 0
+R10
+R2
+n@cortex@m0_@so@c
+vcortexm0ds_logic
+Z12 !s110 1680946188
+!i10b 1
+!s100 G<3Q_bN@PV<MKFdgj4zVA1
+R5
+IMg4@1WRdONdTNHb9USfQ[0
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v
+!i122 29
+L0 27 20248
+R8
+R9
+r1
+!s85 0
+31
+R11
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v|
+!i113 0
+R10
+R2
+vFIFO
+R12
+!i10b 1
+!s100 5P]>MlUUTRlF2l;d4_Y;T1
+R5
+Ie8ieLBQ7G5b<KezAmQ0D32
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v
+!i122 30
+L0 3 73
+R8
+R9
+r1
+!s85 0
+31
+Z13 !s108 1680946188.000000
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v|
+!i113 0
+R10
+R2
+n@f@i@f@o
+vKeyboard
+R12
+!i10b 1
+!s100 [BmA@dZAdDB^:Vh9F:Lnl3
+R5
+IZ=7X?g;c]zU3ePSM@iITM2
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v
+!i122 31
+L0 1 138
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v|
+!i113 0
+R10
+R2
+n@keyboard
+vUART_RX
+R12
+!i10b 1
+!s100 Z7fa3N^2ZPOh;RXbMNgX<3
+R5
+I;JVafm3ie5Y4jZlmKWE?b0
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v
+!i122 32
+L0 1 53
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v|
+!i113 0
+R10
+R2
+n@u@a@r@t_@r@x
+vUART_TX
+R12
+!i10b 1
+!s100 504NUbX7Ce7_z;_3?8QP43
+R5
+I3NdgI>dT6^z^0MWO>fTF`1
+R6
+R7
+8D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v
+FD:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v
+!i122 33
+L0 1 74
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v|
+!s90 -reportprogress|300|-work|Soc|-vopt|-stats=none|D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v|
+!i113 0
+R10
+R2
+n@u@a@r@t_@t@x

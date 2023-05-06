@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Library/VerilogProject
+T_opt
+!s110 1682595141
+V@4ig1lK_CBM1607kz[B;R3
+04 10 4 work sim_seller fast 0
+=1-244bfe86b010-644a5d44-30f-c714
+o-quiet -auto_acc_if_foreign -work VerilogHomework +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vsim_seller
+Z2 !s110 1682595137
+!i10b 1
+!s100 0YRfRTh22nXYBKf@HcS>B3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`dUGM]TI:FKna>S9=_A`33
+R0
+w1682595121
+8D:/Library/VerilogProject/VerilogHomework/sources/sim_seller.v
+FD:/Library/VerilogProject/VerilogHomework/sources/sim_seller.v
+!i122 4
+L0 1 62
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1682595137.000000
+!s107 D:/Library/VerilogProject/VerilogHomework/sources/sim_seller.v|
+!s90 -reportprogress|300|-work|VerilogHomework|-vopt|-stats=none|D:/Library/VerilogProject/VerilogHomework/sources/sim_seller.v|
+!i113 0
+Z7 o-work VerilogHomework -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vvendor_notrigger
+R2
+!i10b 1
+!s100 BdX;ek12<]V4:kDMj<^8J0
+R3
+I^3fD<KazL0[8mKb8h5@_B3
+R0
+w1682593861
+8D:/Library/VerilogProject/VerilogHomework/sources/notrigger.v
+FD:/Library/VerilogProject/VerilogHomework/sources/notrigger.v
+!i122 3
+L0 1 51
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Library/VerilogProject/VerilogHomework/sources/notrigger.v|
+!s90 -reportprogress|300|-work|VerilogHomework|-vopt|-stats=none|D:/Library/VerilogProject/VerilogHomework/sources/notrigger.v|
+!i113 0
+R7
+R1
+vvendor_withtrigger
+R2
+!i10b 1
+!s100 Z89JhNn6CME:gNAnTk8F42
+R3
+IEJ^:e4aATha61SU`Jfl@W1
+R0
+w1682593855
+8D:/Library/VerilogProject/VerilogHomework/sources/withtrigger.v
+FD:/Library/VerilogProject/VerilogHomework/sources/withtrigger.v
+!i122 5
+L0 1 54
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Library/VerilogProject/VerilogHomework/sources/withtrigger.v|
+!s90 -reportprogress|300|-work|VerilogHomework|-vopt|-stats=none|D:/Library/VerilogProject/VerilogHomework/sources/withtrigger.v|
+!i113 0
+R7
+R1

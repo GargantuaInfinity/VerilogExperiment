@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1679191506
+VdOlXXgdOoe2FUKOR<bA0[2
+Z1 04 14 4 work testing_fadder fast 0
+=1-244bfe86b010-64166dd1-30a-6320
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1678964697
+V<U56LZNjmD<Yk7JVjk9lD2
+R1
+=1-244bfe86b010-6412f7d9-1e7-47ae0
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+vfadder
+!s110 1679191479
+!i10b 1
+!s100 kc94?a;7O0n7jL?HG^eRF3
+Z4 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEW^]o>:iIz8aC]95?2U:P0
+Z5 dD:/Library/VerilogProject
+w1679191467
+8D:\Library\VerilogProject\adder.v
+FD:\Library\VerilogProject\adder.v
+!i122 11
+L0 1 17
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1679191479.000000
+!s107 D:\Library\VerilogProject\adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Library\VerilogProject\adder.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtesting_fadder
+!s110 1679191480
+!i10b 1
+!s100 GGXhKD@9NoIiBSVlm6^bH2
+R4
+Id`5LIg:_[E1>TVSbT1^bn2
+R5
+w1678964871
+8D:\Library\VerilogProject\adder_tb.v
+FD:\Library\VerilogProject\adder_tb.v
+!i122 12
+L0 2 18
+R6
+R7
+r1
+!s85 0
+31
+!s108 1679191480.000000
+!s107 D:\Library\VerilogProject\adder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Library\VerilogProject\adder_tb.v|
+!i113 0
+R8
+R2

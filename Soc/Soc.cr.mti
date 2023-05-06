@@ -1,0 +1,120 @@
+D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/cortexm0ds_logic.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module cortexm0ds_logic
+
+Top level modules:
+	cortexm0ds_logic
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SEG.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_SEG
+
+Top level modules:
+	AHBlite_SEG
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Keyboard.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Keyboard
+
+Top level modules:
+	Keyboard
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_LED.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_LED
+
+Top level modules:
+	AHBlite_LED
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_RX.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Matrix_Key.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_Matrix_Key
+
+Top level modules:
+	AHBlite_Matrix_Key
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Decoder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_Decoder
+
+Top level modules:
+	AHBlite_Decoder
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/CortexM0_SoC.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module CortexM0_SoC
+
+Top level modules:
+	CortexM0_SoC
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/UART_TX.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Timer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_Timer
+
+Top level modules:
+	AHBlite_Timer
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/clkuart_pwm.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module clkuart_pwm
+
+Top level modules:
+	clkuart_pwm
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Block_RAM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_Block_RAM
+
+Top level modules:
+	AHBlite_Block_RAM
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/Block_RAM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Block_RAM
+
+Top level modules:
+	Block_RAM
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/FIFO.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_Interconnect.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_Interconnect
+
+Top level modules:
+	AHBlite_Interconnect
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_UART.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_UART
+
+Top level modules:
+	AHBlite_UART
+
+} {} {}} D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v {1 {vlog -work Soc -vopt -stats=none D:/Library/SmartParkour/Cortex_M0_jichuang-main/rtl/AHBlite_SlaveMUX.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module AHBlite_SlaveMUX
+
+Top level modules:
+	AHBlite_SlaveMUX
+
+} {} {}}

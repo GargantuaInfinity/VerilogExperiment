@@ -1,0 +1,22 @@
+D:/Library/VerilogProject/VerilogHomework/sources/2023427/WithTrigger.v {1 {vlog -work VerilogHomeWork -vopt -stats=none D:/Library/VerilogProject/VerilogHomework/sources/2023427/WithTrigger.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module vendor
+
+Top level modules:
+	vendor
+
+} {} {}} D:/Library/VerilogProject/VerilogHomework/sources/2023427/NoTrigger.v {1 {vlog -work VerilogHomeWork -vopt -stats=none D:/Library/VerilogProject/VerilogHomework/sources/2023427/NoTrigger.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module vendor
+
+Top level modules:
+	vendor
+
+} {} {}} D:/Library/VerilogProject/VerilogHomework/sources/2023427/sim_seller.v {1 {vlog -work VerilogHomeWork -vopt -stats=none D:/Library/VerilogProject/VerilogHomework/sources/2023427/sim_seller.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sim_seller
+
+Top level modules:
+	sim_seller
+
+} {} {}}
