@@ -23,7 +23,7 @@ module alu (a, b, cin, sel, y);
             3'b101: LogicUnit <= !b;
             3'b110: LogicUnit <= ~a;
             3'b111: LogicUnit <= ~b;
-            default: LogicUnit <= 
+            default: LogicUnit <= 8'bx;
         endcase
     end
     always @(a, b, cin, sel1) begin : ArithUnitBlock
@@ -43,14 +43,14 @@ module alu (a, b, cin, sel, y);
         case (sel2)
             1'b1: AluNoShift <= LogicUnit;
             1'b0: AluNoShift <= ArithUnit;
-            default: AluNoShift <= 7'bx;
+            default: AluNoShift <= 8'bx;
         endcase
     end
     always @(sel3, AluNoShift) begin : ShifterBlock
         case (sel3)
             2'b00: y <= AluNoShift >> 1;
             2'b11: y <= AluNoShift << 1;
-            default: y <= 7'bx;
+            default: y <= 8'bx;
         endcase
     end
 endmodule
