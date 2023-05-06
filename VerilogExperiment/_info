@@ -1,0 +1,88 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Library/VerilogProject
+T_opt
+!s110 1683359982
+V4<DE=fWHU8<d>7Y5[fEFX0
+04 11 4 work sim_wallace fast 0
+=1-244bfe86b010-645608ee-5-1dd8
+o-quiet -auto_acc_if_foreign -work VerilogExperiment +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vadd
+Z2 !s110 1683359975
+!i10b 1
+!s100 <lU<`YSM7]Yce^K_:RB6b3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9XcSzEhJ_zcmncFdFA=Wz1
+R0
+w1683358107
+8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+!i122 0
+L0 1 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1683359975.000000
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vsigned_multi
+R2
+!i10b 1
+!s100 a9BNJROY:@_<SO=W6IdFJ3
+R3
+IY<hb4GjQI?KmYD`TEcMEh1
+R0
+w1683359220
+8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v
+!i122 2
+L0 1 89
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v|
+!i113 0
+R7
+R1
+vsim_wallace
+R2
+!i10b 1
+!s100 f<V7W_igeR=`FOSaMH@2X2
+R3
+IC<XNTBTbgbN3ZVoo@ikfi3
+R0
+w1683359462
+8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v
+!i122 1
+L0 1 20
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v|
+!i113 0
+R7
+R1
