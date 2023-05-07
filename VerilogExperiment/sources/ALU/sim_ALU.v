@@ -15,7 +15,7 @@ module sim_ALU;
         a = 45;
         b = 34;
         cin = 1'b1;
-        sel = 6'b000000;
+        sel = 6'b010000;
     end
     always begin
         sel[2:0] = 3'b010;
@@ -25,6 +25,8 @@ module sim_ALU;
         sel[3] = 1'b0;
         #10;
         sel[2:0] = 3'b101;
+        #10;
+        sel[5:4] = 2'b01;
         #10;
         sel[5:4] = 2'b11;
         #10;

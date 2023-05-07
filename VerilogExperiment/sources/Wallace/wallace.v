@@ -1,4 +1,4 @@
-module signed_multi(ina,inb,result_out);
+module Wallace(ina,inb,result_out);
 	input   [7:0]  ina,inb;
 	output reg [15:0] result_out;
 	reg     [7:0]  p[7:0];

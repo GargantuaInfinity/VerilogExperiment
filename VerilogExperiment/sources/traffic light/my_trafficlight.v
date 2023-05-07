@@ -4,8 +4,8 @@ module light_control (hwy, cntry, car_h, car_c, clk,clear);
     parameter   RED = 2'd0,
                 YELLOW = 2'd1,
                 GREEN = 2'd2,
-                Delay_ytr = 4,//yellow to red delay
-                Delay_rtg = 3;//red to green delay
+                Delay_ytr = 3,
+                Delay_rtg = 2;
     parameter   S0 = 3'd0,
                 S1 = 3'd1,
                 S2 = 3'd2,
@@ -112,16 +112,3 @@ module light_control (hwy, cntry, car_h, car_c, clk,clear);
         end
     end
 endmodule
-
-// S0: hwy = GREEN;
-//     cntry = RED;
-// S1: hwy = YELLOW;
-//     cntry = RED;
-// S2: hwy = RED;
-//     cntry = RED;
-// S3: hwy = RED;
-//     cntry = GREEN;
-// S4: hwy = RED;
-//     cntry = YELLOW;
-// S5: hwy = RED;
-//     cntry = RED;

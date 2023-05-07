@@ -50,7 +50,8 @@ module alu (a, b, cin, sel, y);
         case (sel3)
             2'b00: y <= AluNoShift >> 1;
             2'b11: y <= AluNoShift << 1;
-            default: y <= 8'bx;
+            2'b10: y <= AluNoShift;
+            default: y<=8'bx;
         endcase
     end
 endmodule

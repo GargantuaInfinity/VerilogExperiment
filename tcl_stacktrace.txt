@@ -1,0 +1,43 @@
+Sun May 07 15:07:54 CST 2023
+Trace back: unknown option "-fillcolor1"
+    (object "::.main_pane.schematic.interior.cs.body.pw.df.c" method "::itk::Archetype::configure" )
+    invoked from within
+"$obj configure -fillcolor$n [GetPref hierfillColor]"
+    (object "::.main_pane.schematic.interior.cs.body.pw.df.schem" method "::vsimwidgets::Dataflow::Base::prefChanged" body line 33)
+    invoked from within
+"prefChanged $which $obj $is_full_sch"
+    (object "::.main_pane.schematic.interior.cs.body.pw.df.schem" method "::vsimwidgets::Dataflow::Base::PrefChanged" body line 18)
+    invoked from within
+".main_pane.schematic.interior.cs.body.pw.df.schem PrefChanged hierfillColor"
+    ("eval" body line 1)
+    invoked from within
+"eval $w $cmd"
+    (procedure "::foreachWindowType" line 4)
+    invoked from within
+"::foreachWindowType schematic "PrefChanged $element""
+    (procedure "Transcript::tracePrefSchematic" line 3)
+    invoked from within
+"Transcript::tracePrefSchematic ::PrefSchematic hierfillColor w"
+    (write trace on "::PrefSchematic(hierfillColor)")
+    invoked from within
+"set ::PrefSchematic(hierfillColor) Gray65"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 $cmd"
+    (procedure "WindowPref::ApplyWindowPrefs" line 25)
+    invoked from within
+"WindowPref::ApplyWindowPrefs"
+    (procedure "Property::apply" line 4)
+    invoked from within
+"Property::apply .preferences.nb"
+    invoked from within
+".preferences.b.button1 invoke"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 [list $w invoke]"
+    (procedure "tk::ButtonUp" line 24)
+    invoked from within
+"tk::ButtonUp .preferences.b.button1"
+    (command bound to event)
+  <2:C:/modeltech64_2020.4/win64/tk8.6/bgerror.tcl:106: ::tkerror {can't set "::PrefSchematic(hierfillColor)": unknown option "-fillcolor1"}
+  <1:C:/mtitcl/vsim/forms.tc_:1532: ::tk::dialog::error::bgerror {can't set "::PrefSchematic(hierfillColor)": unknown option "-fillcolor1"}

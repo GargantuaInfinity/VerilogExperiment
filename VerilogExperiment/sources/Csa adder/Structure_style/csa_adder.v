@@ -22,6 +22,7 @@ module csa_adder(a,b,c,s,cout,sum);
     one_bit_csa U13(a[13], b[13], c[13], s[13], cout[13]);
     one_bit_csa U14(a[14], b[14], c[14], s[14], cout[14]);
     one_bit_csa U15(a[15], b[15], c[15], s[15], cout[15]);
-    always@(*)
+    always@(*) begin
         sum = s + 2 * cout;
+    end
 endmodule

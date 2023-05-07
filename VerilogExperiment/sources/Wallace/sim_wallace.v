@@ -1,7 +1,7 @@
 module sim_wallace;
     reg[7:0] ina,inb;
     wire [15:0] result_out;
-    signed_multi U0(
+    Wallace U0(
         .ina(ina),
         .inb(inb),
         .result_out(result_out)
@@ -11,10 +11,8 @@ module sim_wallace;
         inb = 8'b0000_0000;
     end
     always begin
-        {ina, inb} = {ina, inb} +1;
+        ina = {$random} % 255;
+        inb = {$random} % 255;
         #1;
-        if({ina, inb} == 16'b1111_1111_1111_1111) begin
-            $stop;
-        end
     end
 endmodule

@@ -39,7 +39,4 @@ module sim_mytrafficlight;
         #100;
         $stop;
     end
-
-
-    
 endmodule

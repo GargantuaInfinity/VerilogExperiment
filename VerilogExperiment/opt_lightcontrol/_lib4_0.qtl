@@ -1,0 +1,362 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Library/VerilogProject
+T_opt
+!s110 1683444527
+VUe1UbEij13no6DNgEFU:_3
+04 12 4 work tb_csa_adder fast 0
+=1-244bfe86b010-6457532f-1d2-32a8
+Z1 o-quiet -auto_acc_if_foreign -work VerilogExperiment +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1683449496
+Va4Z@cIAzHzihnkSeHjQ_T2
+04 11 4 work sim_wallace fast 0
+=1-244bfe86b010-64576698-245-80c0
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1683452235
+V[T<bABmDIPM4HKb[B:_zF2
+04 7 4 work sim_ALU fast 0
+=1-244bfe86b010-6457714a-35f-b78
+R1
+R2
+n@_opt2
+R3
+R0
+vadder_cell
+!s110 1683456039
+!i10b 1
+!s100 8h[zEZTj7iC4Eof7f<j471
+Z4 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IA^MZ=l6V>6j3lj;zh5ZDl0
+R0
+w1683362743
+8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+!i122 113
+L0 1 7
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1683456039.000000
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+valu
+Z9 !s110 1683456040
+!i10b 1
+!s100 WkM1?m2YomUhP66=k_g`l2
+R4
+I:00j8@ag?W391:JY;3za50
+R0
+w1683418954
+8D:\Library\VerilogProject\VerilogExperiment\sources\ALU\ALU.v
+FD:\Library\VerilogProject\VerilogExperiment\sources\ALU\ALU.v
+!i122 121
+L0 1 57
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1683456040.000000
+!s107 D:\Library\VerilogProject\VerilogExperiment\sources\ALU\ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Library\VerilogProject\VerilogExperiment\sources\ALU\ALU.v|
+!i113 0
+R8
+R2
+vcsa_adder
+R9
+!i10b 1
+!s100 KNle?@mFGIIB5d99^zMiV1
+R4
+I2eN=Y?z[zOBeCKz<_UEn=1
+R0
+w1683442546
+8D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v
+!i122 116
+L0 1 28
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v|
+!i113 0
+R8
+R2
+vcsa_adder_process
+!s110 1683445493
+!i10b 1
+!s100 n6kL1mE;eI_]RLkzRC51_3
+R4
+IYMPgDm=12??>Ca?GA<QMn1
+R0
+w1683445407
+8D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/CSA_adder_process_style.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/CSA_adder_process_style.v
+!i122 72
+L0 1 16
+R5
+R6
+r1
+!s85 0
+31
+!s108 1683445493.000000
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/CSA_adder_process_style.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/CSA_adder_process_style.v|
+!i113 0
+R8
+R2
+vlight_control
+R9
+!i10b 1
+!s100 GS:0JE3A`AW0>G83[dzdP2
+R4
+IQe[^T8GCKz3eGh4Xa0[Jj1
+R0
+w1683445474
+8D:\Library\VerilogProject\VerilogExperiment\sources\traffic light\my_trafficlight.v
+FD:\Library\VerilogProject\VerilogExperiment\sources\traffic light\my_trafficlight.v
+!i122 119
+L0 1 114
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:\Library\VerilogProject\VerilogExperiment\sources\traffic light\my_trafficlight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Library\VerilogProject\VerilogExperiment\sources\traffic light\my_trafficlight.v|
+!i113 0
+R8
+R2
+vone_bit_csa
+R9
+!i10b 1
+!s100 lCXh8=Z[;J?e^1[n]>XG81
+R4
+I1H>5e7aT0GHo:UlL2gAea3
+R0
+w1683357310
+8D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v
+!i122 117
+L0 1 9
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v|
+!i113 0
+R8
+R2
+Topt_alu
+!s110 1683451611
+V0ZETYAQVg70^InEdo0JQj1
+04 3 4 work alu fast 0
+Z11 o+acc -debugdb
+R2
+nopt_alu
+R3
+R0
+Topt_csa
+!s110 1683442786
+V1b3Q4aiolfa1R_45`9`Md2
+04 9 4 work csa_adder fast 0
+R11
+R2
+nopt_csa
+R3
+R0
+Topt_csa_process
+!s110 1683445605
+V9lj[_1N1o[V9OXj11f2C=1
+04 17 4 work csa_adder_process fast 0
+R11
+R2
+nopt_csa_process
+R3
+R0
+Topt_lightcontrol
+!s110 1683456101
+V7g4T>T<kRKj>_zDge213^2
+04 13 4 work light_control fast 0
+R11
+R2
+nopt_lightcontrol
+R3
+Topt_wallace
+!s110 1683447649
+VefjUZ9IaFCR[I<64Y45j92
+04 12 4 work signed_multi fast 0
+R11
+R2
+nopt_wallace
+R3
+R0
+vsigned_multi
+!s110 1683449493
+!i10b 1
+!s100 _2[:mkGN0HK@hc^68f?>K0
+R4
+IW_2[;IH4RSiSB^;gMeg:X2
+R0
+w1683362744
+Z12 8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v
+Z13 FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v
+!i122 85
+Z14 L0 1 91
+R5
+R6
+r1
+!s85 0
+31
+!s108 1683449493.000000
+Z15 !s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v|
+!i113 0
+R8
+R2
+vsim_ALU
+R9
+!i10b 1
+!s100 >7McM5Ylh9MzLC0DUe_Z_1
+R4
+IgO;6Rnza<>ZTdcN64X`Hm1
+R0
+w1683419027
+8D:\Library\VerilogProject\VerilogExperiment\sources\ALU\sim_ALU.v
+FD:\Library\VerilogProject\VerilogExperiment\sources\ALU\sim_ALU.v
+!i122 122
+L0 1 37
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:\Library\VerilogProject\VerilogExperiment\sources\ALU\sim_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\Library\VerilogProject\VerilogExperiment\sources\ALU\sim_ALU.v|
+!i113 0
+R8
+R2
+nsim_@a@l@u
+vsim_mytrafficlight
+R9
+!i10b 1
+!s100 >NoF^@T36ObS93ZQ@7_i[1
+R4
+IYE[YR6GjbK`2IdMPDL[570
+R0
+w1683429322
+8D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v
+!i122 120
+L0 1 42
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v|
+!i113 0
+R8
+R2
+vsim_wallace
+R9
+!i10b 1
+!s100 ]MP;=4mI48@7i;DIWUE6?0
+R4
+IHH?]LQ_bzWDD;HMVYeBVD1
+R0
+w1683450400
+8D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v
+!i122 114
+L0 1 18
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v|
+!i113 0
+R8
+R2
+vtb_csa_adder
+R9
+!i10b 1
+!s100 Ve3bhEYlTdBHg0:AIB:=^0
+R4
+I8<nnHf@n3A9:VfW@ho0XT2
+R0
+w1683445918
+8D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v
+FD:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v
+!i122 118
+L0 1 17
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v|
+!i113 0
+R8
+R2
+vWallace
+R9
+!i10b 1
+!s100 MYL845jhB;g?ZVm>T:<BG2
+R4
+IO^<eg]I8z=[_oDoi3aE[f1
+R0
+w1683450399
+R12
+R13
+!i122 115
+R14
+R5
+R6
+r1
+!s85 0
+31
+R10
+R15
+R16
+!i113 0
+R8
+R2
+n@wallace

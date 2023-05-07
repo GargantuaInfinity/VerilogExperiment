@@ -1,16 +1,51 @@
-D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v {1 {vlog -work work -vopt -stats=none D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+{D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/my_trafficlight.v} {1 {vlog -work work -vopt -stats=none {D:\Library\VerilogProject\VerilogExperiment\sources\traffic light\my_trafficlight.v}
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module add
+-- Compiling module light_control
 
 Top level modules:
-	add
+	light_control
+
+} {} {}} D:/Library/VerilogProject/VerilogExperiment/sources/ALU/sim_ALU.v {1 {vlog -work work -vopt -stats=none {D:\Library\VerilogProject\VerilogExperiment\sources\ALU\sim_ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sim_ALU
+
+Top level modules:
+	sim_ALU
+
+} {} {}} D:/Library/VerilogProject/VerilogExperiment/sources/ALU/ALU.v {1 {vlog -work work -vopt -stats=none {D:\Library\VerilogProject\VerilogExperiment\sources\ALU\ALU.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v {1 {vlog -work work -vopt -stats=none D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/adder_cell.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module adder_cell
+
+Top level modules:
+	adder_cell
+
+} {} {}} {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v} {1 {vlog -work work -vopt -stats=none {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/csa_adder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module csa_adder
+
+Top level modules:
+	csa_adder
+
+} {} {}} {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v} {1 {vlog -work work -vopt -stats=none {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/one_bit_csa.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module one_bit_csa
+
+Top level modules:
+	one_bit_csa
 
 } {} {}} D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v {1 {vlog -work work -vopt -stats=none D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/wallace.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module signed_multi
+-- Compiling module Wallace
 
 Top level modules:
-	signed_multi
+	Wallace
 
 } {} {}} D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v {1 {vlog -work work -vopt -stats=none D:/Library/VerilogProject/VerilogExperiment/sources/Wallace/sim_wallace.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
@@ -18,5 +53,19 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 Top level modules:
 	sim_wallace
+
+} {} {}} {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v} {1 {vlog -work work -vopt -stats=none {D:/Library/VerilogProject/VerilogExperiment/sources/Csa adder/Structure_style/tb_csa_adder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_csa_adder
+
+Top level modules:
+	tb_csa_adder
+
+} {} {}} {D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v} {1 {vlog -work work -vopt -stats=none {D:/Library/VerilogProject/VerilogExperiment/sources/traffic light/sim_trafficlight.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sim_mytrafficlight
+
+Top level modules:
+	sim_mytrafficlight
 
 } {} {}}
